@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(e,n,t){"use strict";t.r(n);var i=t("q1tI"),o=t.n(i),a=t("Wbzz");n.default=function(){return o.a.createElement(o.a.Fragment,null,o.a.createElement(a.Link,{to:"/egies"},"Click here"),"undefined"!=typeof window&&(window.location.href="/egies")&&void 0)}}}]);
+//# sourceMappingURL=component---src-pages-index-js-8e66b0596910b259b867.js.map
